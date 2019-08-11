@@ -28,5 +28,4 @@ def find_faces(image_path):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 if __name__=='__main__':
-    find_faces('download (2).jpg')
-        
+    find_faces('download (2).jpg')   #name of the file 
